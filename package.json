@@ -1,0 +1,19 @@
+{
+  "name": "Node-Server",
+  "version": "1.0.0",
+  "description": "Basic Node Server/API for my projects",
+  "main": "index.coffee",
+  "author": "Andrew Font",
+  "dependencies": {
+    "body-parser": "^1.4.3",
+    "compression": "^1.0.8",
+    "environmental-configuration": "^1.0.1",
+    "express": "^4.8.5",
+    "hogan-express": "*",
+    "htmlmin": "0.0.2",
+    "jade": "*",
+    "lodash": "^2.4.1",
+    "request": "^2.36.0",
+    "underscore": "^1.6.0"
+  }
+}

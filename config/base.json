@@ -1,0 +1,16 @@
+{
+  "port": 10002,
+  "viewInBrowserUrl": "http://localhost:10002/view/%s",
+  "mailgun" : {
+    "apiKey": "key-23xf0fs96lluzzbqiel0nt-8mz8r8km4",
+    "domain": "devliquidnet.mailgun.org"
+  },
+  "mongo" : {
+    "host": "nj1dvlcmmdb01",
+    "port": "27017",
+    "username": "",
+    "password": "",
+    "database": "testdatabase"
+  },
+  "fromEmail": "Liquidnet <email@liquidnet.com>"
+}

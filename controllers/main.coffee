@@ -3,7 +3,7 @@
 _ = require 'lodash'
 config = require('environmental-configuration')('./config')
 
-exports.do = (req, res, next) ->
+exports.pay = (req, res, next) ->
   res.json "it worked"
 ### !=== Example below was used to send emails in another project ===! ###
 # ====================================== #

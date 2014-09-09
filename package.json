@@ -13,6 +13,7 @@
     "htmlmin": "0.0.2",
     "jade": "*",
     "lodash": "^2.4.1",
+    "mongoose": "^3.8.16",
     "request": "^2.36.0",
     "underscore": "^1.6.0"
   }

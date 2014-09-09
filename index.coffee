@@ -22,8 +22,8 @@ app.all '*', (req, res, next) ->
   res.header "Access-Control-Allow-Credentials", "true"
   next()
 
-app.post "/do", (req, res, next) ->
-  main.do req, res, next
+app.post "/pay", (req, res, next) ->
+  main.pay req, res, next
 
 app.get "/view/:id", (req, res, next) ->
   main.view req, res, next

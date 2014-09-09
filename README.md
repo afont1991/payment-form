@@ -1,10 +1,12 @@
 
 
-# Node API and Server
+# Stripe Payment Form
 
-My basic Node Server for use In projects
+Payment service using stripe - for practice
 
 ## Running
 
 - npm install
 - Run 'coffee index.coffee'
+
+# More to Come

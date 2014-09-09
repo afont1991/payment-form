@@ -2,6 +2,7 @@
 
 _ = require 'lodash'
 config = require('environmental-configuration')('./config')
+mongoose = require 'mongoose'
 
 exports.pay = (req, res, next) ->
   res.json "it worked"
